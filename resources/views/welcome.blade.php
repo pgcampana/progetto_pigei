@@ -8,7 +8,7 @@
         <style>
             html, body {
                 height: 100%;
-                background<div style="height: 45px;background-image:http://images.sardiniaexclusive.com/foto/ricettivo/5337-faro-di-capospartivento2_original.jpg('../public/images/header_pattern2.png');border-radius: 5px;position:relative">
+              	background-color: rgb(150,150,150);
             }
 
             body {
@@ -31,28 +31,31 @@
                 display: inline-block;
             }
 
-            .title {
+             .h1 {
                 font-size: 96px;
-            }
-            
-            .h1 {
-            	font-size: 96px;
+                font-family: lucida sans unicode;
+                font-weight: bold;
+                color: white;
             }
             
             .h2 {
             	font-size: 80px;
+            	font-family: lucida sans unicode;
+            	font-weight: bold;
+            	color: white;
             }
-            
             .h3 {
-            	font-size: 70px;
-            }
+            	font-size: 40px;
+            	font-family: lucida sans unicode;
+            	font-weight: bold;
+            	color: white;
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <h1 class="title">Laravel 5</h1>
-                <h2 class="title">Progetto Pigei</h2>
+                <div class="h1">Laravel 5</div>
+                <div class="h2">Progetto Pigei</div
             </div>
         </div>
     </body>
