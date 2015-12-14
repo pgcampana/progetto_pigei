@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="it">
+<html lang="en">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -9,12 +9,10 @@
     <meta name="author" content="">
     <link rel="icon" href="../../favicon.ico">
 
-    <title>Progetto PiGiu</title>
+    <title>Jumbotron Template for Bootstrap</title>
 
-   <link href="/css/miostile.css" rel="stylesheet">
     <!-- Bootstrap core CSS -->
-   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
-
+    <link href="../../dist/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
@@ -38,10 +36,14 @@
     <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
-        
-     	<p>Pier Giuseppe Campana</p>
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Project name</a>
         </div>
-        
         <div id="navbar" class="navbar-collapse collapse">
           <form class="navbar-form navbar-right">
             <div class="form-group">
@@ -60,14 +62,12 @@
     <div class="jumbotron">
       <div class="container">
         <h1>Pier Giuseppe Campana</h1>
-        <p>Questo è il progetto di un mio sito internet che ho sviluppato all'interno del corso promosso da ECIPAR Formazione e Servizi Innovativi e gestito da CNA Formazione Forlì-Cesena via Mulini, 35 47521 Cesena. Obiettivo del percorso è quello di formare un professionista in grado di sapersi muovere attraverso le principali fasi della creazione di una app: raccolta delle esigenze del cliente e studio fattibilità; creazione bozze grafiche di ciascuna schermata prevista nell'app; gestione contenuti e sviluppo; consegna demo e test/debugging; pubblicazione app.</p>
+        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
         <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
       </div>
     </div>
 
-    <div class="container" >
-    <div id="home">
-    <div id="navbar">
+    <div class="container">
       <!-- Example row of columns -->
       <div class="row">
         <div class="col-md-4">
@@ -93,7 +93,7 @@
         <p>&copy; 2015 Company, Inc.</p>
       </footer>
     </div> <!-- /container -->
-</div>
+
 
     <!-- Bootstrap core JavaScript
     ================================================== -->

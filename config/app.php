@@ -1,9 +1,5 @@
 <?php
 
-use Laracasts;
-use Laracasts;
-use Collective;
-use Collective;
 return [
 
     /*
