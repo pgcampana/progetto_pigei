@@ -11,10 +11,14 @@
 
     <title>Progetto PiGiu</title>
 
-   <link href="/css/miostile.css" rel="stylesheet">
-    <!-- Bootstrap core CSS -->
-   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+   <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
@@ -35,60 +39,56 @@
 
   <body>
 
-    <nav class="navbar navbar-inverse navbar-fixed-top">
       <div class="container">
         <div class="navbar-header">
         
-     	<p>Pier Giuseppe Campana</p>
-        </div>
-        
-        <div id="navbar" class="navbar-collapse collapse">
-          <form class="navbar-form navbar-right">
-            <div class="form-group">
-              <input type="text" placeholder="Email" class="form-control">
-            </div>
-            <div class="form-group">
-              <input type="password" placeholder="Password" class="form-control">
-            </div>
-            <button type="submit" class="btn btn-success">Sign in</button>
-          </form>
-        </div><!--/.navbar-collapse -->
-      </div>
-    </nav>
+     	<h1>Pier Giuseppe Campana</h1>
+     	
+       </div class="navbar-header">
+    </div class="container">    
+
+ 
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
       <div class="container">
-        <h1>Pier Giuseppe Campana</h1>
+      <p><a class="btn btn-primary btn-lg href="/" role="button">HOME &raquo;</a>
+      	<a class="btn btn-primary btn-lg" href="#" role="button">VENDITA &raquo;</a>
+       	<a class="btn btn-primary btn-lg" href="/" role="button">SERVICE &raquo;</a>
+       	<a class="btn btn-primary btn-lg" href="/" role="button"=>SERVIZIO RICAMBI &raquo;</a>
+       	<a class="btn btn-primary btn-lg" href="/" role="button"=>PAGINA PERSONALE &raquo;</a>
+       	</p>
+       	
         <p>Questo è il progetto di un mio sito internet che ho sviluppato all'interno del corso promosso da ECIPAR Formazione e Servizi Innovativi e gestito da CNA Formazione Forlì-Cesena via Mulini, 35 47521 Cesena. Obiettivo del percorso è quello di formare un professionista in grado di sapersi muovere attraverso le principali fasi della creazione di una app: raccolta delle esigenze del cliente e studio fattibilità; creazione bozze grafiche di ciascuna schermata prevista nell'app; gestione contenuti e sviluppo; consegna demo e test/debugging; pubblicazione app.</p>
-        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+       
       </div>
     </div>
-
-    <div class="container" >
-    <div id="home">
-    <div id="navbar">
+    
       <!-- Example row of columns -->
       <div class="row">
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        <div class="col-md-3">
+          <h2>VENDITA</h2>
+          <p>In questa sezione ci sono elencate le mie esperienze di vendita nel settore automobilistico e le mansioni che sono in grado di svolgere nel reparto vendite delle concessionarie auto.</p>
         </div>
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        <div class="col-md-3">
+          <h2>SERVICE</h2>
+          <p>In questa pagina vengono riportate tutte le esperienze fatte nel corso della mia vita professionale in ambito SERVICE delle varie concessionarie di diversi brand automobolistici</p>
        </div>
-        <div class="col-md-4">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+        <div class="col-md-3">
+          <h2>SERVIZIO RICAMBI</h2>
+          <p>Qui sono indicate le esperienze acquisite negli anni nel servizio ricambi delle concessionarie di vari brand automobilistici presso le quali ho lavorato</p>
         </div>
+        <div class="col-md-3">
+          <h2>PAGINA PERSONALE</h2>
+          <p>Questa è la mia pagina personale dove trovano spazio informazioni su di me e i link per contattarmi.</p>
+          
       </div>
+      </div class="container">
+      
+      
 
       <hr>
-
+	<div>
       <footer>
         <p>&copy; 2015 Company, Inc.</p>
       </footer>
