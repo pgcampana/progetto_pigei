@@ -16,11 +16,11 @@
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
     <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
-    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+    <script src="js/ie-emulation-modes-warning.js"></script>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
@@ -29,7 +29,7 @@
     <![endif]-->
 
     <!-- Custom styles for this template -->
-    <link href="carousel.css" rel="stylesheet">
+    <link href="css/carousel1.css" rel="stylesheet">
   </head>
 <!-- NAVBAR
 ================================================== -->
@@ -76,35 +76,92 @@
         <li data-target="#myCarousel" data-slide-to="1"></li>
         <li data-target="#myCarousel" data-slide-to="2"></li>
         <li data-target="#myCarousel" data-slide-to="3"></li>
+        <li data-target="#myCarousel" data-slide-to="4"></li>
+        <li data-target="#myCarousel" data-slide-to="5"></li>
+        <li data-target="#myCarousel" data-slide-to="6"></li>
+        <li data-target="#myCarousel" data-slide-to="7"></li>
+        <li data-target="#myCarousel" data-slide-to="8"></li>
+        <li data-target="#myCarousel" data-slide-to="9"></li>
+        
       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="pictures/BMW_MINI_Brand.jpg" alt="Marchio BMW MINI">
+          <img class="first-slide" src="pictures/opel-gm-logos.jpg" alt="OPEL GM brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" src="pictures/Land_Rover_brand.jpg" alt="Marchio lAND ROVER">
+          <img class="second-slide" src="pictures/BMW-Logo.jpg" alt="BMW Brand">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Another example headline.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a></p>
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="third-slide" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Third slide">
+          <img class="third-slide" src="pictures/NISSAN_Logo.jpg" alt="NISSAN Brand">
           <div class="container">
             <div class="carousel-caption">
-              <h1>One more for good measure.</h1>
-              <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a></p>
             </div>
           </div>
         </div>
+       <div class="item">
+          <img class="fourth-slide" src="pictures/Rover_brand.jpg" alt="Rover Brand">
+          <div class="container">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="fifth-slide" src="pictures/MG_Brand.jpg" alt="MG Brand">
+          <div class="container">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>
+         <div class="item">
+          <img class="sixth-slide" src="pictures/mini-Logo.jpg" alt="MINI Brand">
+          <div class="container">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>
+         <div class="item">
+          <img class="sixth-slide" src="pictures/Land_Rover_brand.jpg" alt="Land Rover Brand">
+          <div class="container">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>
+       	<div class="item">
+          <img class="seventh-slide" src="pictures/Mitsubishi_Motors_brand.jpg" alt="Mitsubishi Brand">
+          <div class="container">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>
+       	<div class="item">
+          <img class="eighth-slide" src="pictures/chrysler_brand.jpg" alt="chrysler brands">
+          <div class="container">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>
+     	<div class="item">
+          <img class="ninth-slide" src="pictures/BMW-Logo.jpg" alt="BMW brands">
+          <div class="container">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>
+  		<div class="item">
+          <img class="tenth-slide" src="pictures/MINI-Logo.jpg" alt="Mini brands">
+          <div class="container">
+            <div class="carousel-caption">
+            </div>
+          </div>
+        </div>          
       </div>
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -115,7 +172,6 @@
         <span class="sr-only">Next</span>
       </a>
     </div><!-- /.carousel -->
-    <hr>
 
 
     <!-- Marketing messaging and featurettes
@@ -127,27 +183,24 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/Vendita.jpg" alt="Esposizione auto" width="140" height="140">
+          <img class="img-circle" src="pictures/BMW_Welt.jpg" alt="Esposizione auto" width="140" height="140">
           <h2>Vendita</h2>
           <p><p>In questa sezione ci sono elencate le mie esperienze di vendita nel settore automobilistico e le mansioni che sono in grado di svolgere nel reparto vendite delle concessionarie auto.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <img class="img-circle" src="pictures/bmw-service-140.jpg" alt="Immagine di ufficio accettazione" width="140" height="140">
+          <h2>Service</h2>
+          <p>In questa pagina vengono riportate tutte le esperienze fatte nel corso della mia vita professionale in ambito SERVICE delle varie concessionarie di diversi brand automobolistici</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="Immagine di esploso gruppo completo frizione e cambio manuale" width="140" height="140">
+          <h2>Ricambi</h2>
+          <p>Qui sono indicate le esperienze acquisite negli anni nel servizio ricambi delle concessionarie di vari brand automobilistici presso le quali ho lavorato.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" alt="Generic placeholder image" width="140" height="140">
-          <h2>Heading</h2>
-          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-          <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+          <img class="img-circle" src="pictures/potrait 140.jpg" alt="Immagine di Pier Giuseppe Campana" width="140" height="140">
+          <h2>Pagina personale</h2>
+          <p>Questa è la mia pagina personale dove trovano spazio informazioni su di me e i link per contattarmi.</p>
         </div><!-- /.col-lg-3 -->
       </div><!-- /.row -->
 
@@ -209,10 +262,10 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-    <script src="../../dist/js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
     <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
-    <script src="../../assets/js/vendor/holder.min.js"></script>
+    <script src="js/holder.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
   </body>
 </html>
