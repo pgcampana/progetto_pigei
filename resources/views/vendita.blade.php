@@ -1,24 +1,24 @@
 
 <!DOCTYPE html>
 <html lang="it">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="../../favicon.ico">
 
-    <title>Progetto PGC</title>
+<title>Vendita</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<!-- Bootstrap core CSS -->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="js/ie-emulation-modes-warning.js"></script>
 
@@ -50,12 +50,12 @@
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="/vendita">Vendita</a></li>
+                <li><a href="/">Home</a></li>
+                <li class="active"><a href="#">Vendita</a></li>
                 <li><a href="#contact">Service</a></li>
                	<li><a href="#contact">Ricambi</a></li>
                	<li><a href="#contact">Pagina Personale</a></li>
-               
+        
                   </ul>
                 </li>
               </ul>
@@ -65,9 +65,8 @@
 
       </div>
     </div>
-
-
-    <!-- Carousel
+    
+     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
@@ -203,51 +202,17 @@
           <p>Questa è la mia pagina personale dove trovano spazio informazioni su di me e i link per contattarmi.</p>
         </div><!-- /.col-lg-3 -->
       </div><!-- /.row -->
-
-
-      <!-- START THE FEATURETTES -->
-
-      <hr class="featurette-divider">
+    
+    </div class="featurette-divider">
 
       <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Progetto PGC <span class="text-muted">Il mio sito personale</span></h2>
-          <p class="lead">Questo progetto è nato all'interno del corso di formazione promosso da ECIPAR FORMAZIONE E SERVIZI INNOVATIVI che aveva come obiettivo del percorso quello di formare un professionista in grado di sapersi muovere attraverso le principali fasi della creazione di una app: raccolta delle esigenze del cliente e studio fattibilità; creazione bozze grafiche di ciascuna schermata prevista nell'app; gestione contenuti e sviluppo; consegna demo e test/debugging; publlicazione app.</p>
+        <div class="col-md-12">
+          <h2 class="featurette-heading">Esperienze maturate in ambito vendita <span class="text-muted"></span></h2>
+          <p class="lead">Dal 27/04/1990 al 31/10/1990 ho lavorato in qualità di venditore presso la concessionaria Opel GM Erbacci Motor di Faenza. Dove mi sono occupato di vendita auto nuove e usate e consegna con spiegazione vettura al cliente. 
+          Dal 05/11/1990 al 31/08/1994 sono stato impiegato presso la concessionaria BMW Zeus Car s.n.c. e pur svolgendo attività diverse ho partecipato ad eventi di presentazione modelli nuovi e consegna con spiegazione vettura al cliente.</p>
         </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="pictures/Ecipar2_logo.jpg" alt="Logo di ECIPAR">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
-        <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <!-- /END THE FEATURETTES -->
-
-
+       
+    
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.jpg"></button></a></p>

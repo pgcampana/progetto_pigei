@@ -15,6 +15,18 @@ Route::get('/', function () {
     return view('home');
 });
 
+Route::get('vendita', function () {
+	return view('vendita');
+});	
 	
-	Route::get('home', 'AccountController@home');
-	
+Route::get('service', function () {
+	return view('service');
+});	
+
+Route::get('ricambi', function () {
+	return view('ricambi');
+});
+
+Route::get('personale', function () {
+	return view('personale');
+});
