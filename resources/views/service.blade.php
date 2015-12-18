@@ -1,24 +1,25 @@
 
+
 <!DOCTYPE html>
 <html lang="it">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="icon" href="pictures/Icona Pierre 35x35.png">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+<meta name="description" content="">
+<meta name="author" content="">
+<link rel="icon" href="pictures/Icona Pierre 35x35.png">
 
-    <title>Progetto PGC</title>
+<title>service</title>
 
-    <!-- Bootstrap core CSS -->
-    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
+<!-- Bootstrap core CSS -->
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" rel="stylesheet">
 
-    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
-    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
 
-    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+<!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
     <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
     <script src="js/ie-emulation-modes-warning.js"></script>
 
@@ -46,26 +47,25 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand">Pier Giuseppe Campana</a>
+              <a class="navbar-brand" href="#">Pier Giuseppe Campana</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
-                <li class="active"><a href="#">Home</a></li>
-                <li><a href="vendita">Vendita</a></li>
-                <li><a href="service">Service</a></li>
-               	<li><a href="ricambi">Ricambi</a></li>
+                <li><a href="/">Home</a></li>
+      			<li><a href="vendita">Vendita</a></li>          
+                <li class="active"><a href="#">Service</a></li>
+                <li><a href="ricambi">Ricambi</a></li>
                	<li><a href="personale">Pagina Personale</a></li>
-               
-              </ul>
+        
+                  </ul>             
             </div>
           </div>
         </nav>
 
       </div>
     </div>
-
-
-    <!-- Carousel
+    
+     <!-- Carousel
     ================================================== -->
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
@@ -201,59 +201,37 @@
           <p>Questa è la mia pagina personale dove trovano spazio informazioni su di me e i link per contattarmi.</p>
         </div><!-- /.col-lg-3 -->
       </div><!-- /.row -->
-
-
+    
+      
       <!-- START THE FEATURETTES -->
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Progetto PGC <span class="text-muted">Il mio sito personale</span></h2>
-          <p class="lead">Questo progetto è nato all'interno del corso di formazione promosso da ECIPAR FORMAZIONE E SERVIZI INNOVATIVI che aveva come obiettivo del percorso quello di formare un professionista in grado di sapersi muovere attraverso le principali fasi della creazione di una app: raccolta delle esigenze del cliente e studio fattibilità; creazione bozze grafiche di ciascuna schermata prevista nell'app; gestione contenuti e sviluppo; consegna demo e test/debugging; publlicazione app.
-          </p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="pictures/Ecipar2_logo.jpg" alt="Logo ECIPAR">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
+      
+        <hr class="featurette-divider">
 
       <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        <div class="col-md-12">
+          <h2 class="featurette-heading">Area Service<span class="text-muted"></span></h2>
+          <p class="lead">Dal 05/11/1990 al 31/08/1994 sono stato impiegato presso la concessionaria BMW Zeus Car s.n.c.di Faenza dove mi sono occupato di accettazione veicoli al service, ero responsabile dei rapporti con la clientela del post-vendita. Curavo l'agenda degli appuntamenti e l'accettazione della vettura in officina, preventivi, fatturazione e gestione completa delle garanzie con casa madre. Nel tempo poi ho iniziato a  collaborare con il servizio ricambi e per l'area vendita ho partecipato ad eventi di presentazione modelli nuovi e consegna con spiegazione vettura al cliente.</p>
         </div>
-        <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+        <div class="col-md-0">
+          <img class="featurette-image img-responsive center-block" src="" alt="">
         </div>
-      </div>
+       </div>
+      
+       
+    
+    
+        <hr class="featurette-divider">
 
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <!-- /END THE FEATURETTES -->
-
-
+      	<!-- /END THE FEATURETTES --> 
+ 
+    
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p>
         <p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
       </footer>
 
-    </div><!-- /.container -->
+   </div><!-- /.container --> 
 
 
     <!-- Bootstrap core JavaScript

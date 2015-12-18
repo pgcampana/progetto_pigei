@@ -8,7 +8,7 @@
 <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 <meta name="description" content="">
 <meta name="author" content="">
-<link rel="icon" href="../../favicon.ico">
+<link rel="icon" href="pictures/Icona Pierre 35x35.png">
 
 <title>Vendita</title>
 
@@ -52,13 +52,10 @@
               <ul class="nav navbar-nav">
                 <li><a href="/">Home</a></li>
                 <li class="active"><a href="#">Vendita</a></li>
-                <li><a href="#contact">Service</a></li>
-               	<li><a href="#contact">Ricambi</a></li>
-               	<li><a href="#contact">Pagina Personale</a></li>
-        
-                  </ul>
-                </li>
-              </ul>
+                <li><a href="service">Service</a></li>
+               	<li><a href="ricambi">Ricambi</a></li>
+               	<li><a href="personale">Pagina Personale</a></li>
+	      	</ul> 
             </div>
           </div>
         </nav>
@@ -202,24 +199,39 @@
           <p>Questa è la mia pagina personale dove trovano spazio informazioni su di me e i link per contattarmi.</p>
         </div><!-- /.col-lg-3 -->
       </div><!-- /.row -->
-    
-    </div class="featurette-divider">
-
-      <div class="row featurette">
+     
+      
+      
+      
+   		<!-- START THE FEATURETTES -->
+      
+     	 <hr class="featurette-divider">
+     	 
+      	<div class="row featurette">
         <div class="col-md-12">
-          <h2 class="featurette-heading">Esperienze maturate in ambito vendita <span class="text-muted"></span></h2>
-          <p class="lead">Dal 27/04/1990 al 31/10/1990 ho lavorato in qualità di venditore presso la concessionaria Opel GM Erbacci Motor di Faenza. Dove mi sono occupato di vendita auto nuove e usate e consegna con spiegazione vettura al cliente. 
-          Dal 05/11/1990 al 31/08/1994 sono stato impiegato presso la concessionaria BMW Zeus Car s.n.c. e pur svolgendo attività diverse ho partecipato ad eventi di presentazione modelli nuovi e consegna con spiegazione vettura al cliente.</p>
+          <h2 class="featurette-heading">Area Vendita<span class="text-muted"></span></h2>
+          <p class="lead">Dal 27/04/1990 al 31/10/1990 ho lavorato in qualità di venditore presso la concessionaria Opel GM Erbacci Motor di Faenza. Dove mi sono occupato di vendita auto nuove e usate e consegna con spiegazione vettura al cliente. Dal 05/11/1990 al 31/08/1994 sono stato impiegato presso la concessionaria BMW Zeus Car s.n.c. e pur svolgendo attività diverse ho collaborato per gli eventi di presentazione modelli nuovi e consegna con spiegazione della vettura al cliente.
+          </p>
         </div>
+        <div class="col-md-0">
+          <img class="featurette-image img-responsive center-block" src="" alt="">
+        </div>
+       </div>
+       
+   
+       	<hr class="featurette-divider">
+
+      	<!-- /END THE FEATURETTES --> 
+        
        
     
       <!-- FOOTER -->
       <footer>
-        <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.jpg"></button></a></p>
+        <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p>
         <p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
       </footer>
 
-    </div><!-- /.container -->
+   </div><!-- /.container -->
 
 
     <!-- Bootstrap core JavaScript
@@ -232,5 +244,6 @@
     <script src="js/holder.min.js"></script>
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
+    
   </body>
 </html>
