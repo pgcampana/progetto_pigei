@@ -208,23 +208,21 @@
         <hr class="featurette-divider">
 
       <div class="row featurette">
-        <div class="col-md-12">
-          <h2 class="featurette-heading">Pagina Personale<span class="text-muted"></span></h2>
-          <p class="lead">Mi chiamo Pier Giuseppe</p>
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Qualcosa su di me<span class="text-muted"></span></h2>
+          <p class="lead">Mi chiamo Pier Giuseppe Campana, sono nato a Forlì, il 16/06/1961. Sono diplomato geometra. Nel 1979 ho conseguito la patente di guida categoria "B" che ho tutt'ora a punteggio pieno. Ho iniziato a lavorare l'11/06/1982 presso il laboratorio fotografico Extracolor, dove ho svolto diverse mansioni. Ho iniziato ad intelaiare le diapositive, passando poi alla stampa manuale delle foto e a quella automatica dove programmavo le macchine stampatrici del formato standard 10 X 15. Sono rimasto impiegato presso quell'azienda fino al 27/04/1990, data in cui sfruttando una mia passione  sono entrato nel settore automobolistico. Sono, infatti,  appassionato di automobili, di Formula 1 e di motori in genere. Mi piace leggere, camminare soprattutto in mezzo alla natura. Sono stato sposato per 31 anni con Catia una insegnante elementare. Al momento sono single. Ho frequentato un corso extrascolastico di inglese e uno di dattilografia che mi permette di scrivere con dieci dita senza dover guardare la tastiera.</p>
         </div>
-        <div class="col-md-0">
-          <img class="featurette-image img-responsive center-block" src="" alt="">
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" src="" alt="collegamenti social">
         </div>
        </div>
       
        
-    
-    
         <hr class="featurette-divider">
 
       	<!-- /END THE FEATURETTES --> 
  
-    
+    	<center><center>
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p>

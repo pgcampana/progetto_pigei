@@ -223,7 +223,7 @@
 
       	<!-- /END THE FEATURETTES --> 
  
-    
+    	<center><center>
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p>

@@ -223,7 +223,8 @@
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Il logo del progetto<span class="text-muted"></span></h2>
-          <p class="lead">Questo è il logo del progetto, è opera di  Alessandra, una collega del corso,che lo ha disegnato per me. Mi è piaciuto fin da subito non abbiamo fatto nessuna modifica ma come è nato così è rimasto,le sono molto grato.</p>
+          <p class="lead">Questo è il logo del progetto, è opera di  Alessandra, una collega del corso,che lo ha disegnato per me. Mi è piaciuto fin dall'inizio, non abbiamo fatto nessuna modifica, come è nato così è rimasto,le sono molto grato.</p>
+          <p class="lead">Un ringraziamento particolare va a Matteo che mi ha aiutato alla realizzazione del progetto con i suoi preziosi consigli ed insegnamenti, inoltre mi ha installato la macchina virtuale nel mio notebook, operazione necessaria per poter lavorare da casa al progetto</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="pictures/logo_PGC.jpg" alt="Logo PGC">
@@ -246,7 +247,7 @@
 
       <!-- /END THE FEATURETTES -->
 
-
+		<center><center>
       <!-- FOOTER -->
       <footer>
         <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p>
