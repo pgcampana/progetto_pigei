@@ -222,11 +222,11 @@
 
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Il logo del progetto<span class="text-muted"></span></h2>
+          <p class="lead">Questo è il logo del progetto, è opera di  Alessandra, una collega del corso,che lo ha disegnato per me. Mi è piaciuto fin da subito non abbiamo fatto nessuna modifica ma come è nato così è rimasto,le sono molto grato.</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block" src="pictures/logo_PGC.jpg" alt="Logo PGC">
         </div>
       </div>
 

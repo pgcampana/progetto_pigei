@@ -51,10 +51,11 @@
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
                 <li><a href="/">Home</a></li>
-      			<li><a href="vendita">Vendita</a></li>          
-                <li class="active"><a href="#">Service</a></li>
-                <li><a href="ricambi">Ricambi</a></li>
-               	<li><a href="personale">Pagina Personale</a></li>
+      			<li><a href="vendita">Vendita</a></li> 
+      			<li><a href="service">Service</a></li>
+      			<li><a href="ricambi">Ricambi</a></li>       
+                <li class="active"><a href="#">Pagina personale</a></li>
+               	
         
                   </ul>             
             </div>
@@ -208,8 +209,8 @@
 
       <div class="row featurette">
         <div class="col-md-12">
-          <h2 class="featurette-heading">Area Service<span class="text-muted"></span></h2>
-          <p class="lead">Dal 05/11/1990 al 31/08/1994 sono stato impiegato presso la concessionaria BMW Zeus Car s.n.c.di Faenza dove mi sono occupato di accettazione veicoli al service, ero responsabile dei rapporti con la clientela del post-vendita. Curavo l'agenda degli appuntamenti e l'accettazione della vettura in officina, preventivi, fatturazione e gestione completa delle garanzie con casa madre. Nel tempo poi ho iniziato a  collaborare con il servizio ricambi e per l'area vendita ho partecipato ad eventi di presentazione modelli nuovi e consegna con spiegazione vettura al cliente.</p>
+          <h2 class="featurette-heading">Pagina Personale<span class="text-muted"></span></h2>
+          <p class="lead">Mi chiamo Pier Giuseppe</p>
         </div>
         <div class="col-md-0">
           <img class="featurette-image img-responsive center-block" src="" alt="">

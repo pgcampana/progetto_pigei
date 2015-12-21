@@ -53,7 +53,7 @@
                 <li><a href="/">Home</a></li>
       			<li><a href="vendita">Vendita</a></li>  
       			<li><a href="service">Service</a></li>        
-                <li class="active"><a href="#">ricambi</a></li>
+                <li class="active"><a href="#">Ricambi</a></li>
                	<li><a href="personale">Pagina Personale</a></li>
         
                   </ul>             
