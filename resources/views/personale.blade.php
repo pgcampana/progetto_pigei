@@ -210,7 +210,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Qualcosa su di me<span class="text-muted"></span></h2>
-          <p class="lead">Mi chiamo Pier Giuseppe Campana, sono nato a Forlì, il 16/06/1961. Sono diplomato geometra. Nel 1979 ho conseguito la patente di guida categoria "B" che ho tutt'ora a punteggio pieno. Ho iniziato a lavorare l'11/06/1982 presso il laboratorio fotografico Extracolor, dove ho svolto diverse mansioni. Ho iniziato ad intelaiare le diapositive, passando poi alla stampa manuale delle foto e a quella automatica dove programmavo le macchine stampatrici del formato standard 10 X 15. Sono rimasto impiegato presso quell'azienda fino al 27/04/1990, data in cui sfruttando una mia passione  sono entrato nel settore automobolistico. Sono, infatti,  appassionato di automobili, di Formula 1 e di motori in genere. Mi piace leggere, camminare soprattutto in mezzo alla natura. Sono stato sposato per 31 anni con Catia una insegnante elementare. Al momento sono single. Ho frequentato un corso extrascolastico di inglese e uno di dattilografia che mi permette di scrivere con dieci dita senza dover guardare la tastiera.</p>
+          <p class="lead">Mi chiamo Pier Giuseppe Campana, sono nato a Forlì, il 16/06/1961. Sono diplomato geometra. Nel 1979 ho conseguito la patente di guida categoria "B" che ho tutt'ora a punteggio pieno. Ho iniziato a lavorare l'11/06/1982 presso il laboratorio fotografico Extracolor, dove ho svolto diverse mansioni. Ho iniziato ad intelaiare le diapositive, passando poi alla stampa manuale delle foto e a quella automatica dove programmavo le macchine stampatrici del formato standard 10 X 15. Sono rimasto impiegato presso quell'azienda fino al 27/04/1990, data in cui sfruttando una mia passione  sono entrato nel settore automobolistico. Sono, infatti,  appassionato di automobili, di Formula 1 e di motori in genere. Mi piace leggere, camminare soprattutto in mezzo alla natura. Sono stato sposato per 31 anni con Catia una insegnante elementare e non ho figli. Al momento sono single. Ho frequentato un corso extrascolastico di inglese e uno di dattilografia che mi permette di scrivere con dieci dita senza dover guardare la tastiera.</p>
         </div>
         <div class="col-md-5">
           <img class="featurette-image img-responsive center-block" src="" alt="collegamenti social">
@@ -225,8 +225,19 @@
     	<center><center>
       <!-- FOOTER -->
       <footer>
-        <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p>
+      
+      <div style="margin-bottom:10px";>
+      <a href="https://www.facebook.com/piergiuseppe.campana" target="_blank"><img src="pictures/facebook.png"/></a>
+      <a href="https://twitter.com/pgcampana1" target="_blank"><img src="pictures/twitter.png"/></a>
+      <a href="mailto:pgcampana@gmail.com"><img src="pictures/mail.png"/></a>
+      </div>
+      <div style="margin-bottom:20px; font-size:15px; font-weight:bolder";>
+      <a><img src="pictures/phone.png"> +39 339 4974271</a>
+      </div>
+        
+      
         <p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+        <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p>
       </footer>
 
    </div><!-- /.container --> 
