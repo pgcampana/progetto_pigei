@@ -46,7 +46,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Pier Giuseppe Campana</a>
+              <a class="navbar-brand">Pier Giuseppe Campana</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -181,18 +181,18 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/BMW_Welt.jpg" alt="Esposizione auto" width="140" height="140">
+          <a href="vendita"><img class="img-circle" src="pictures/BMW_Welt.jpg" alt="vai alla pagina vendita" width="140" height="140"></a>
           <h2>Vendita</h2>
-          <p><p>In questa sezione ci sono elencate le mie esperienze di vendita nel settore automobilistico e le mansioni che sono in grado di svolgere nel reparto vendite delle concessionarie auto.</p>
+          <p>In questa sezione ci sono elencate le mie esperienze di vendita nel settore automobilistico e le mansioni che sono in grado di svolgere nel reparto vendite delle concessionarie auto.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/bmw-service-140.jpg" alt="Immagine di ufficio accettazione" width="140" height="140">
+          <a href="service"><img class="img-circle" src="pictures/bmw-service-140.jpg" alt="vai alla pagina service" width="140" height="140"></a>
           <h2>Service</h2>
           <p>In questa pagina vengono riportate tutte le esperienze fatte nel corso della mia vita professionale in ambito SERVICE delle varie concessionarie di diversi brand automobolistici</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="Immagine di esploso gruppo completo frizione e cambio manuale" width="140" height="140">
-          <h2>Ricambi</h2>
+          <a href="ricambi"><img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="vai alla pagina ricambi" width="140" height="140"></a>
+ 	      <h2>Ricambi</h2>
           <p>Qui sono indicate le esperienze acquisite negli anni nel servizio ricambi delle concessionarie di vari brand automobilistici presso le quali ho lavorato.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
@@ -210,6 +210,7 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Qualcosa su di me<span class="text-muted"></span></h2>
+         <p.lead style="text-align: justify";>
           <p class="lead">Mi chiamo Pier Giuseppe Campana, sono nato a Forlì, il 16/06/1961. Sono diplomato geometra. Nel 1979 ho conseguito la patente di guida categoria "B" che ho tutt'ora a punteggio pieno. Ho iniziato a lavorare l'11/06/1982 presso il laboratorio fotografico Extracolor, dove ho svolto diverse mansioni. Ho iniziato ad intelaiare le diapositive, passando poi alla stampa manuale delle foto e a quella automatica dove programmavo le macchine stampatrici del formato standard 10 X 15. Sono rimasto impiegato presso quell'azienda fino al 27/04/1990, data in cui sfruttando una mia passione  sono entrato nel settore automobolistico. Sono, infatti,  appassionato di automobili, di Formula 1 e di motori in genere. Mi piace leggere, camminare soprattutto in mezzo alla natura. Sono stato sposato per 31 anni con Catia una insegnante elementare e non ho figli. Al momento sono single. Ho frequentato un corso extrascolastico di inglese e uno di dattilografia che mi permette di scrivere con dieci dita senza dover guardare la tastiera.</p>
         </div>
         <div class="col-md-5">
@@ -226,12 +227,10 @@
       <!-- FOOTER -->
       <footer>
       
-      <div style="margin-bottom:10px";>
+      <div style="margin-bottom:10px; font-size:20px; fontweight:bolder">
       <a href="https://www.facebook.com/piergiuseppe.campana" target="_blank"><img src="pictures/facebook.png"/></a>
       <a href="https://twitter.com/pgcampana1" target="_blank"><img src="pictures/twitter.png"/></a>
       <a href="mailto:pgcampana@gmail.com"><img src="pictures/mail.png"/></a>
-      </div>
-      <div style="margin-bottom:20px; font-size:15px; font-weight:bolder";>
       <a><img src="pictures/phone.png"> +39 339 4974271</a>
       </div>
         

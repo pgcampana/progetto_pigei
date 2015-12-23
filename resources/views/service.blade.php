@@ -47,7 +47,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
               </button>
-              <a class="navbar-brand" href="#">Pier Giuseppe Campana</a>
+              <a class="navbar-brand">Pier Giuseppe Campana</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
               <ul class="nav navbar-nav">
@@ -181,7 +181,7 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/BMW_Welt.jpg" alt="Esposizione auto" width="140" height="140">
+          <a href="vendita"><img class="img-circle" src="pictures/BMW_Welt.jpg" alt="Esposizione auto" width="140" height="140"></a>
           <h2>Vendita</h2>
           <p><p>In questa sezione ci sono elencate le mie esperienze di vendita nel settore automobilistico e le mansioni che sono in grado di svolgere nel reparto vendite delle concessionarie auto.</p>
         </div><!-- /.col-lg-3 -->
@@ -191,12 +191,12 @@
           <p>In questa pagina vengono riportate tutte le esperienze fatte nel corso della mia vita professionale in ambito SERVICE delle varie concessionarie di diversi brand automobolistici</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="Immagine di esploso gruppo completo frizione e cambio manuale" width="140" height="140">
+          <a href="ricambi"><img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="Immagine di esploso gruppo completo frizione e cambio manuale" width="140" height="140"></a>
           <h2>Ricambi</h2>
           <p>Qui sono indicate le esperienze acquisite negli anni nel servizio ricambi delle concessionarie di vari brand automobilistici presso le quali ho lavorato.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/potrait 140.jpg" alt="Immagine di Pier Giuseppe Campana" width="140" height="140">
+          <a href="personale">-<img class="img-circle" src="pictures/potrait 140.jpg" alt="Immagine di Pier Giuseppe Campana" width="140" height="140"></a>
           <h2>Pagina personale</h2>
           <p>Questa è la mia pagina personale dove trovano spazio informazioni su di me e i link per contattarmi.</p>
         </div><!-- /.col-lg-3 -->
@@ -210,6 +210,7 @@
       <div class="row featurette">
         <div class="col-md-12">
           <h2 class="featurette-heading">Area Service<span class="text-muted"></span></h2>
+          <p.lead style="text-align: justify";>
           <p class="lead">Dal 05/11/1990 al 31/08/1994 sono stato impiegato presso la concessionaria BMW Zeus Car s.n.c.di Faenza dove mi sono occupato di accettazione veicoli al service, ero responsabile dei rapporti con la clientela del post-vendita. Curavo l'agenda degli appuntamenti e l'accettazione della vettura in officina, preventivi, fatturazione e gestione completa delle garanzie con casa madre. Nel tempo poi ho iniziato a  collaborare con il servizio ricambi e per l'area vendita ho partecipato ad eventi di presentazione modelli nuovi e consegna con spiegazione vettura al cliente.</p>
         </div>
         <div class="col-md-0">

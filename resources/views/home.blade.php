@@ -181,22 +181,22 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/BMW_Welt.jpg" alt="Esposizione auto" width="140" height="140">
+          <a href="vendita"><img class="img-circle" src="pictures/BMW_Welt.jpg" alt="Esposizione auto" width="140" height="140"></a>
           <h2>Vendita</h2>
           <p><p>In questa sezione ci sono elencate le mie esperienze di vendita nel settore automobilistico e le mansioni che sono in grado di svolgere nel reparto vendite delle concessionarie auto.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/bmw-service-140.jpg" alt="Immagine di ufficio accettazione" width="140" height="140">
+          <a href="service"><img class="img-circle" src="pictures/bmw-service-140.jpg" alt="Immagine di ufficio accettazione" width="140" height="140"></a>
           <h2>Service</h2>
           <p>In questa pagina vengono riportate tutte le esperienze fatte nel corso della mia vita professionale in ambito SERVICE delle varie concessionarie di diversi brand automobolistici</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="Immagine di esploso gruppo completo frizione e cambio manuale" width="140" height="140">
+          <a href="ricambi"><img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="Immagine di esploso gruppo completo frizione e cambio manuale" width="140" height="140"></a>
           <h2>Ricambi</h2>
           <p>Qui sono indicate le esperienze acquisite negli anni nel servizio ricambi delle concessionarie di vari brand automobilistici presso le quali ho lavorato.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/potrait 140.jpg" alt="Immagine di Pier Giuseppe Campana" width="140" height="140">
+          <a href="personale"><img class="img-circle" src="pictures/potrait 140.jpg" alt="Immagine di Pier Giuseppe Campana" width="140" height="140"></a>
           <h2>Pagina personale</h2>
           <p>Questa è la mia pagina personale dove trovano spazio informazioni su di me e i link per contattarmi.</p>
         </div><!-- /.col-lg-3 -->
@@ -224,7 +224,7 @@
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Il logo del progetto<span class="text-muted"></span></h2>
           <p class="lead">Questo è il logo del progetto, è opera di  Alessandra, una collega del corso,che lo ha disegnato per me. Mi è piaciuto fin dall'inizio, non abbiamo fatto nessuna modifica, come è nato così è rimasto,le sono molto grato.</p>
-          <p class="lead">Un ringraziamento particolare va a Matteo che mi ha aiutato alla realizzazione del progetto con i suoi preziosi consigli ed insegnamenti, inoltre mi ha installato la macchina virtuale nel mio notebook, operazione necessaria per poter lavorare da casa al progetto</p>
+          <p class="lead">Un ringraziamento particolare va a Matteo, collega di corso,  che mi ha aiutato alla realizzazione del progetto con i suoi preziosi consigli ed insegnamenti, inoltre mi ha installato la macchina virtuale nel mio notebook, operazione necessaria per poter lavorare da casa al progetto</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="pictures/logo_PGC.jpg" alt="Logo PGC">
