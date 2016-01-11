@@ -177,6 +177,52 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container marketing">
+    
+     <!-- START THE FEATURETTES -->
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">Progetto PGC <span class="text-muted">Il mio sito personale</span></h2>
+          <p.lead style="text-align: justify";>
+          <p class="lead">Questo progetto è nato all'interno del corso di formazione promosso da ECIPAR FORMAZIONE E SERVIZI INNOVATIVI che aveva come obiettivo del percorso quello di formare un professionista in grado di sapersi muovere attraverso le principali fasi della creazione di una app: raccolta delle esigenze del cliente e studio fattibilità; creazione bozze grafiche di ciascuna schermata prevista nell'app; gestione contenuti e sviluppo; consegna demo e test/debugging; publlicazione app.
+          </p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" src="pictures/Ecipar2_logo.jpg" alt="Logo ECIPAR">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7 col-md-push-5">
+          <h2 class="featurette-heading">Il logo del progetto<span class="text-muted"></span></h2>
+          <p.lead style="text-align: justify";>
+          <p class="lead">Questo è il logo del progetto, è opera di  Alessandra, una collega del corso,che lo ha disegnato per me. Mi è piaciuto fin dall'inizio, non abbiamo fatto nessuna modifica, come è nato così è rimasto,le sono molto grato.</p>
+          <p class="lead">Un ringraziamento particolare va a Matteo, collega di corso,  che mi ha aiutato nella realizzazione del progetto con i suoi preziosi consigli ed insegnamenti, inoltre mi ha installato la macchina virtuale nel mio notebook, operazione necessaria per poter lavorare da casa al progetto</p>
+        </div>
+        <div class="col-md-5 col-md-pull-7">
+          <img class="featurette-image img-responsive center-block" src="pictures/logo_PGC.jpg" alt="Logo PGC">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
+          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+        </div>
+        <div class="col-md-5">
+          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+        </div>
+      </div>
+
+      <hr class="featurette-divider">
+
+      <!-- /END THE FEATURETTES -->
 
       <!-- Three columns of text below the carousel -->
       <div class="row">
@@ -203,49 +249,7 @@
       </div><!-- /.row -->
 
 
-      <!-- START THE FEATURETTES -->
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">Progetto PGC <span class="text-muted">Il mio sito personale</span></h2>
-          <p class="lead">Questo progetto è nato all'interno del corso di formazione promosso da ECIPAR FORMAZIONE E SERVIZI INNOVATIVI che aveva come obiettivo del percorso quello di formare un professionista in grado di sapersi muovere attraverso le principali fasi della creazione di una app: raccolta delle esigenze del cliente e studio fattibilità; creazione bozze grafiche di ciascuna schermata prevista nell'app; gestione contenuti e sviluppo; consegna demo e test/debugging; publlicazione app.
-          </p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" src="pictures/Ecipar2_logo.jpg" alt="Logo ECIPAR">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7 col-md-push-5">
-          <h2 class="featurette-heading">Il logo del progetto<span class="text-muted"></span></h2>
-          <p class="lead">Questo è il logo del progetto, è opera di  Alessandra, una collega del corso,che lo ha disegnato per me. Mi è piaciuto fin dall'inizio, non abbiamo fatto nessuna modifica, come è nato così è rimasto,le sono molto grato.</p>
-          <p class="lead">Un ringraziamento particolare va a Matteo, collega di corso,  che mi ha aiutato alla realizzazione del progetto con i suoi preziosi consigli ed insegnamenti, inoltre mi ha installato la macchina virtuale nel mio notebook, operazione necessaria per poter lavorare da casa al progetto</p>
-        </div>
-        <div class="col-md-5 col-md-pull-7">
-          <img class="featurette-image img-responsive center-block" src="pictures/logo_PGC.jpg" alt="Logo PGC">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-        </div>
-        <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
-        </div>
-      </div>
-
-      <hr class="featurette-divider">
-
-      <!-- /END THE FEATURETTES -->
+     
 
 		<center><center>
       <!-- FOOTER -->
