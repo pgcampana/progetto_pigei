@@ -78,7 +78,6 @@
         <li data-target="#myCarousel" data-slide-to="6"></li>
         <li data-target="#myCarousel" data-slide-to="7"></li>
         <li data-target="#myCarousel" data-slide-to="8"></li>
-        <li data-target="#myCarousel" data-slide-to="9"></li>
         
       </ol>
       <div class="carousel-inner" role="listbox">
@@ -146,20 +145,14 @@
           </div>
         </div>
      	<div class="item">
-          <img class="ninth-slide" src="pictures/banner_bmw.jpg" alt="BMW brands">
+          <img class="ninth-slide" src="pictures/banner_bmw_mini.jpg" alt="BMW MINI brands">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
-  		<div class="item">
-          <img class="tenth-slide" src="pictures/banner_mini.jpg" alt="Mini brands">
-          <div class="container">
-            <div class="carousel-caption">
-            </div>
-          </div>
-        </div>          
-      </div>
+       </div>
+  		
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
