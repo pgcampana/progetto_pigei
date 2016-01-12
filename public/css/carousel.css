@@ -35,31 +35,34 @@ body {
   width: auto;
 }
 
+/* ROW FEATURETTES
+-------------------------------------------------- */
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
 
 /* Carousel base class */
 .carousel {
-  height: 500px;
-  margin-bottom: 60px;
+  height: auto;
+  margin-top:80px;
+  margin-bottom:25px;
 }
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
 }
 
-/* Declare heights because of positioning of img element */
+/* Declare heights because of positioning of img element */http://laravel.app/#myCarousel
 .carousel .item {
-  height: 500px;
-  background-color: #777;
+  height: auto;
 }
 .carousel-inner > .item > img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 500px;
+    height: auto;
+    width: auto;
+    background: #25FF00;
+	margin: 0 auto;
+};
 }
 
 
@@ -83,8 +86,12 @@ body {
 /* Featurettes
 ------------------------- */
 
+.p {	
+	text-align: justify;
+}
+
 .featurette-divider {
-  margin: 80px 0; /* Space out the Bootstrap <hr> more */
+  margin: px 0; /* Space out the Bootstrap <hr> more */
 }
 
 /* Thin out the marketing headings */
@@ -131,6 +138,6 @@ body {
 
 @media (min-width: 992px) {
   .featurette-heading {
-    margin-top: 120px;
+    margin-top: 10px;
   }
 }

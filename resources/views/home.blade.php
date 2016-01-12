@@ -29,7 +29,7 @@
     <![endif]-->
 
     <!-- Custom styles for this template -->
-    <link href="css/carousel1.css" rel="stylesheet">
+    <link href="css/carousel.css" rel="stylesheet">
   </head>
 <!-- NAVBAR
 ================================================== -->
@@ -81,86 +81,80 @@
         <li data-target="#myCarousel" data-slide-to="8"></li>
         <li data-target="#myCarousel" data-slide-to="9"></li>
         
-      </ol>
+       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="pictures/banner_opel_gm.jpg" alt="OPEL GM brand">
+          <img class="first-slide" src="pictures/opel-gm-logos.jpg" alt="OPEL GM brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" src="pictures/banner_bmw.jpg" alt="BMW Brand">
+          <img class="second-slide" src="pictures/bmw-logo.jpg" alt="BMW Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="third-slide" src="pictures/banner_Nissan.jpg" alt="NISSAN Brand">
+          <img class="third-slide" src="pictures/Nissan_logo.jpg" alt="NISSAN Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
        <div class="item">
-          <img class="fourth-slide" src="pictures/banner_rover.jpg" alt="Rover Brand">
+          <img class="fourth-slide" src="pictures/rover_brand.jpg" alt="Rover Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="fifth-slide" src="pictures/banner_MG.jpg" alt="MG Brand">
+          <img class="fifth-slide" src="pictures/MG_Brand.jpg" alt="MG Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
          <div class="item">
-          <img class="sixth-slide" src="pictures/banner_mini.jpg" alt="MINI Brand">
+          <img class="sixth-slide" src="pictures/mini-logo.jpg" alt="MINI Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
          <div class="item">
-          <img class="sixth-slide" src="pictures/banner_LandRover.jpg" alt="Land Rover Brand">
+          <img class="sixth-slide" src="pictures/Land_Rover_brand.jpg" alt="Land Rover Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
        	<div class="item">
-          <img class="seventh-slide" src="pictures/banner_chrysler.jpg" alt="Mitsubishi Brand">
+          <img class="seventh-slide" src="pictures/chrysler_brand.jpg" alt="Chrysler Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
        	<div class="item">
-          <img class="eighth-slide" src="pictures/banner_mitsubishi.jpg" alt="chrysler brands">
+          <img class="eighth-slide" src="pictures/Mitsubishi_Motors_brand.jpg" alt="Mitsubishi brands">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
      	<div class="item">
-          <img class="ninth-slide" src="pictures/banner_bmw.jpg" alt="BMW brands">
+          <img class="ninth-slide" src="pictures/BMW_MINI_Brand.jpg" alt="BMW brands">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
-  		<div class="item">
-          <img class="tenth-slide" src="pictures/banner_mini.jpg" alt="Mini brands">
-          <div class="container">
-            <div class="carousel-caption">
-            </div>
-          </div>
-        </div>          
-      </div>
+       </div>
+       
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
@@ -177,39 +171,40 @@
     <!-- Wrap the rest of the page in another container to center all the content. -->
 
     <div class="container marketing">
-
-      <!-- Three columns of text below the carousel -->
+    
+       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-3">
-          <a href="vendita"><img class="img-circle" src="pictures/BMW_Welt.jpg" alt="Esposizione auto" width="140" height="140"></a>
           <h2>Vendita</h2>
-          <p><p>In questa sezione ci sono elencate le mie esperienze di vendita nel settore automobilistico e le mansioni che sono in grado di svolgere nel reparto vendite delle concessionarie auto.</p>
+          <p.lead style="text-align: justify">
+          <p>In questa sezione ci sono elencate le mie esperienze di vendita nel settore automobilistico e le mansioni che sono in grado di svolgere nel reparto vendite delle concessionarie auto.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <a href="service"><img class="img-circle" src="pictures/bmw-service-140.jpg" alt="Immagine di ufficio accettazione" width="140" height="140"></a>
           <h2>Service</h2>
+          <p.lead style="text-align: justify">
           <p>In questa pagina vengono riportate tutte le esperienze fatte nel corso della mia vita professionale in ambito SERVICE delle varie concessionarie di diversi brand automobolistici</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <a href="ricambi"><img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="Immagine di esploso gruppo completo frizione e cambio manuale" width="140" height="140"></a>
-          <h2>Ricambi</h2>
+ 	      <h2>Ricambi</h2>
+ 	       <p.lead style="text-align: justify">
           <p>Qui sono indicate le esperienze acquisite negli anni nel servizio ricambi delle concessionarie di vari brand automobilistici presso le quali ho lavorato.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <a href="personale"><img class="img-circle" src="pictures/potrait 140.jpg" alt="Immagine di Pier Giuseppe Campana" width="140" height="140"></a>
           <h2>Pagina personale</h2>
+           <p.lead style="text-align: justify">
           <p>Questa è la mia pagina personale dove trovano spazio informazioni su di me e i link per contattarmi.</p>
         </div><!-- /.col-lg-3 -->
       </div><!-- /.row -->
-
-
-      <!-- START THE FEATURETTES -->
+    
+    
+     <!-- START THE FEATURETTES -->
 
       <hr class="featurette-divider">
 
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Progetto PGC <span class="text-muted">Il mio sito personale</span></h2>
+          <p.lead style="text-align: justify";>
           <p class="lead">Questo progetto è nato all'interno del corso di formazione promosso da ECIPAR FORMAZIONE E SERVIZI INNOVATIVI che aveva come obiettivo del percorso quello di formare un professionista in grado di sapersi muovere attraverso le principali fasi della creazione di una app: raccolta delle esigenze del cliente e studio fattibilità; creazione bozze grafiche di ciascuna schermata prevista nell'app; gestione contenuti e sviluppo; consegna demo e test/debugging; publlicazione app.
           </p>
         </div>
@@ -223,8 +218,9 @@
       <div class="row featurette">
         <div class="col-md-7 col-md-push-5">
           <h2 class="featurette-heading">Il logo del progetto<span class="text-muted"></span></h2>
+          <p.lead style="text-align: justify";>
           <p class="lead">Questo è il logo del progetto, è opera di  Alessandra, una collega del corso,che lo ha disegnato per me. Mi è piaciuto fin dall'inizio, non abbiamo fatto nessuna modifica, come è nato così è rimasto,le sono molto grato.</p>
-          <p class="lead">Un ringraziamento particolare va a Matteo, collega di corso,  che mi ha aiutato alla realizzazione del progetto con i suoi preziosi consigli ed insegnamenti, inoltre mi ha installato la macchina virtuale nel mio notebook, operazione necessaria per poter lavorare da casa al progetto</p>
+          <p class="lead">Un ringraziamento particolare va a Matteo, collega di corso,  che mi ha aiutato nella realizzazione del progetto con i suoi preziosi consigli ed insegnamenti, inoltre mi ha installato la macchina virtuale nel mio notebook, operazione necessaria per poter lavorare da casa al progetto</p>
         </div>
         <div class="col-md-5 col-md-pull-7">
           <img class="featurette-image img-responsive center-block" src="pictures/logo_PGC.jpg" alt="Logo PGC">
@@ -235,23 +231,52 @@
 
       <div class="row featurette">
         <div class="col-md-7">
-          <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-          <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+          <h2 class="featurette-heading">Ing. Leonardo Dal Zovo <span class="text-muted"></span></h2>
+          <p.lead style="text-align: justify";>
+          <p class="lead">E' il docente che ha curato il corso per analisti programmatori in ambito mobile. E' laureato in ingegneria informatica alla università degli studi di Padova</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+          <img class="featurette-image img-responsive center-block" src="pictures/ldalzovo.jpg" alt="Leonardo Alberto dal Zovo">
         </div>
       </div>
 
       <hr class="featurette-divider">
 
       <!-- /END THE FEATURETTES -->
-
+   
 		<center><center>
       <!-- FOOTER -->
       <footer>
-        <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p>
+      
+      <div class="col-lg-3">
+      	<a href="vendita"><img class="img-circle" src="pictures/BMW_Welt.jpg" alt="vai alla pagina vendita" width="120" height="120"></a>
+      	<h3>Vendita</h3>
+    </div>
+      <div class="col-lg-3">
+		<a href="service"><img class="img-circle" src="pictures/bmw-service-140.jpg" alt="vai alla pagina service" width="120" height="120"></a>
+		<h3>Service</h3>
+	</div> 
+		<div class="col-lg-3">
+		<a href="ricambi"><img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="vai alla pagina ricambi" width="120" height="120"></a>
+		<h3>Ricambi</h3>
+	</div>
+      <div class="col-lg-3">
+		<a href="personale"><img class="img-circle" src="pictures/potrait 140.jpg" alt="Vai alla pagina personale" width="120" height="120"></a>
+		<h3>Pagina personale</h3>
+	</div>		
+</div>
+	
+		<center><center>		    		
+      <div style="margin-bottom:10px; margin-top:20px; font-size:20px; fontweight:bolder">
+      <a href="https://www.facebook.com/piergiuseppe.campana" target="_blank"><img src="pictures/facebook.png"/></a>
+      <a href="https://twitter.com/pgcampana1" target="_blank"><img src="pictures/twitter.png"/></a>
+      <a href="mailto:pgcampana@gmail.com"><img src="pictures/mail.png"/></a>
+      <a><img src="pictures/phone.png"> +39 339 4974271</a>
+      </div>
+        
+      
         <p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+      <!-- <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p> -->
       </footer>
 
     </div><!-- /.container -->

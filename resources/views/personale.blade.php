@@ -29,7 +29,7 @@
     <![endif]-->
 
     <!-- Custom styles for this template -->
-    <link href="css/carousel1.css" rel="stylesheet">
+    <link href="css/carousel.css" rel="stylesheet">
   </head>
 <!-- NAVBAR
 ================================================== -->
@@ -80,87 +80,81 @@
         <li data-target="#myCarousel" data-slide-to="7"></li>
         <li data-target="#myCarousel" data-slide-to="8"></li>
         <li data-target="#myCarousel" data-slide-to="9"></li>
-        
-      </ol>
+       
+       </ol>
       <div class="carousel-inner" role="listbox">
         <div class="item active">
-          <img class="first-slide" src="pictures/banner_opel_gm.jpg" alt="OPEL GM brand">
+          <img class="first-slide" src="pictures/opel-gm-logos.jpg" alt="OPEL GM brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="second-slide" src="pictures/banner_bmw.jpg" alt="BMW Brand">
+          <img class="second-slide" src="pictures/bmw-logo.jpg" alt="BMW Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="third-slide" src="pictures/banner_Nissan.jpg" alt="NISSAN Brand">
+          <img class="third-slide" src="pictures/Nissan_logo.jpg" alt="NISSAN Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
        <div class="item">
-          <img class="fourth-slide" src="pictures/banner_rover.jpg" alt="Rover Brand">
+          <img class="fourth-slide" src="pictures/rover_brand.jpg" alt="Rover Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
         <div class="item">
-          <img class="fifth-slide" src="pictures/banner_MG.jpg" alt="MG Brand">
+          <img class="fifth-slide" src="pictures/MG_Brand.jpg" alt="MG Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
          <div class="item">
-          <img class="sixth-slide" src="pictures/banner_mini.jpg" alt="MINI Brand">
+          <img class="sixth-slide" src="pictures/mini-logo.jpg" alt="MINI Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
          <div class="item">
-          <img class="sixth-slide" src="pictures/banner_LandRover.jpg" alt="Land Rover Brand">
+          <img class="sixth-slide" src="pictures/Land_Rover_brand.jpg" alt="Land Rover Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
        	<div class="item">
-          <img class="seventh-slide" src="pictures/banner_chrysler.jpg" alt="Mitsubishi Brand">
+          <img class="seventh-slide" src="pictures/chrysler_brand.jpg" alt="Chrysler Brand">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
        	<div class="item">
-          <img class="eighth-slide" src="pictures/banner_mitsubishi.jpg" alt="chrysler brands">
+          <img class="eighth-slide" src="pictures/Mitsubishi_Motors_brand.jpg" alt="Mitsubishi brands">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
      	<div class="item">
-          <img class="ninth-slide" src="pictures/banner_bmw.jpg" alt="BMW brands">
+          <img class="ninth-slide" src="pictures/BMW_MINI_Brand.jpg" alt="BMW brands">
           <div class="container">
             <div class="carousel-caption">
             </div>
           </div>
         </div>
-  		<div class="item">
-          <img class="tenth-slide" src="pictures/banner_mini.jpg" alt="Mini brands">
-          <div class="container">
-            <div class="carousel-caption">
-            </div>
-          </div>
-        </div>          
-      </div>
+       </div>
+  		
       <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
@@ -181,23 +175,23 @@
       <!-- Three columns of text below the carousel -->
       <div class="row">
         <div class="col-lg-3">
-          <a href="vendita"><img class="img-circle" src="pictures/BMW_Welt.jpg" alt="vai alla pagina vendita" width="140" height="140"></a>
           <h2>Vendita</h2>
+          <p.lead style="text-align: justify">
           <p>In questa sezione ci sono elencate le mie esperienze di vendita nel settore automobilistico e le mansioni che sono in grado di svolgere nel reparto vendite delle concessionarie auto.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <a href="service"><img class="img-circle" src="pictures/bmw-service-140.jpg" alt="vai alla pagina service" width="140" height="140"></a>
           <h2>Service</h2>
+          <p.lead style="text-align: justify">
           <p>In questa pagina vengono riportate tutte le esperienze fatte nel corso della mia vita professionale in ambito SERVICE delle varie concessionarie di diversi brand automobolistici</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <a href="ricambi"><img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="vai alla pagina ricambi" width="140" height="140"></a>
  	      <h2>Ricambi</h2>
+ 	       <p.lead style="text-align: justify">
           <p>Qui sono indicate le esperienze acquisite negli anni nel servizio ricambi delle concessionarie di vari brand automobilistici presso le quali ho lavorato.</p>
         </div><!-- /.col-lg-3 -->
         <div class="col-lg-3">
-          <img class="img-circle" src="pictures/potrait 140.jpg" alt="Immagine di Pier Giuseppe Campana" width="140" height="140">
           <h2>Pagina personale</h2>
+           <p.lead style="text-align: justify">
           <p>Questa è la mia pagina personale dove trovano spazio informazioni su di me e i link per contattarmi.</p>
         </div><!-- /.col-lg-3 -->
       </div><!-- /.row -->
@@ -205,7 +199,7 @@
       
       <!-- START THE FEATURETTES -->
       
-        <hr class="featurette-divider">
+   	 <hr class="featurette-divider"> 
 
       <div class="row featurette">
         <div class="col-md-7">
@@ -219,7 +213,7 @@
        </div>
       
        
-        <hr class="featurette-divider">
+        <hr class="featurette-divider"> 
 
       	<!-- /END THE FEATURETTES --> 
  
@@ -227,7 +221,27 @@
       <!-- FOOTER -->
       <footer>
       
-      <div style="margin-bottom:10px; font-size:20px; fontweight:bolder">
+      <div class="col-lg-3">
+		<a href="/"><img class="img-circle" src="pictures/logo_PGC_140.jpg" alt="Vai alla Home page" width="120" height="120"></a>
+		<h3>Home</h3>
+	</div>
+      <div class="col-lg-3">
+      	<a href="vendita"><img class="img-circle" src="pictures/BMW_Welt.jpg" alt="vai alla pagina vendita" width="120" height="120"></a>
+      	<h3>Vendita</h3>
+    </div>
+      <div class="col-lg-3">
+		<a href="service"><img class="img-circle" src="pictures/bmw-service-140.jpg" alt="vai alla pagina service" width="120" height="120"></a>
+		<h3>Service</h3>
+	</div> 
+		<div class="col-lg-3">
+		<a href="ricambi"><img class="img-circle" src="pictures/bmw-service-parts-140.jpg" alt="vai alla pagina ricambi" width="120" height="120"></a>
+		<h3>Ricambi</h3>
+	</div>
+		
+	</div>
+	
+		<center><center>		    		
+      <div style="margin-bottom:10px; margin-top:20px; font-size:20px; fontweight:bolder">
       <a href="https://www.facebook.com/piergiuseppe.campana" target="_blank"><img src="pictures/facebook.png"/></a>
       <a href="https://twitter.com/pgcampana1" target="_blank"><img src="pictures/twitter.png"/></a>
       <a href="mailto:pgcampana@gmail.com"><img src="pictures/mail.png"/></a>
@@ -236,7 +250,7 @@
         
       
         <p>&copy; 2015 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
-        <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p>
+      <!-- <p class="pull-right"><a href="#"><button type="button" class="btn btn-info">Torna sù <img alt="Freccia sù" src="pictures/freccia.png"></button></a></p> -->
       </footer>
 
    </div><!-- /.container --> 
